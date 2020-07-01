@@ -1,2 +1,4 @@
-# SpringMvc
-Basic admin panel
+admin-template
+==============
+
+Spring MVC Template Project with Admin LTE bootstrap theme
